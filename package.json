@@ -1,8 +1,8 @@
 {
-  "name": "satforge",
+  "name": "sat-down",
   "private": true,
   "version": "1.0.0",
-  "description": "SATforge - AI-Powered SAT Practice Platform with 1000+ Questions",
+  "description": "SAT-down - AI-Powered SAT Practice Platform with 1000+ Questions",
   "type": "module",
   "scripts": {
     "dev": "vite",
